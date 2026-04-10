@@ -10,3 +10,7 @@ Dueños de gatos que pasan tiempo fuera de casa o en otra habitación y quieren 
 - Sensor de movimiento: detecta cuando el gato se acerca al plato. Señal digital.
 - Sensor de peso: mide si hay comida en el plato. Señal analógica.
 
+## Salidas
+- LED verde: indica que hay comida en el plato. Señal digital.
+- LED rojo: indica que el plato está vacío. Señal digital.
+- Buzzer: emite una alerta cuando el gato llega y el plato está vacío. Señal PWM.
